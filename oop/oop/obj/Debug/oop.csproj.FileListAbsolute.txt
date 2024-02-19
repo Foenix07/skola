@@ -1,0 +1,7 @@
+C:\Users\Daniela\OneDrive\Dokumenty\programming\Cs\oop\oop\obj\Debug\oop.csproj.AssemblyReference.cache
+C:\Users\Daniela\OneDrive\Dokumenty\programming\Cs\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\OneDrive\Dokumenty\programming\Cs\oop\oop\bin\Debug\oop.exe.config
+C:\Users\Daniela\OneDrive\Dokumenty\programming\Cs\oop\oop\bin\Debug\oop.exe
+C:\Users\Daniela\OneDrive\Dokumenty\programming\Cs\oop\oop\bin\Debug\oop.pdb
+C:\Users\Daniela\OneDrive\Dokumenty\programming\Cs\oop\oop\obj\Debug\oop.exe
+C:\Users\Daniela\OneDrive\Dokumenty\programming\Cs\oop\oop\obj\Debug\oop.pdb
